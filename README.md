@@ -25,8 +25,8 @@ python manage.py create_data title # custom command (create_data) (input filenam
 ## Reference
 [Just Django](https://www.youtube.com/watch?v=-X1KMCM_uts&list=PLLRM7ROnmA9EGO3TOlWLgrc46EhTgj1Ih)
 
-
-*HAPPY CODING :)
-
 __P.S. : Create super user to explore the wonderful world of administrator where you are the KING.__
+
 `python manage.py createsuperuser`
+
+HAPPY CODING :)
