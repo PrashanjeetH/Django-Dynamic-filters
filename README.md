@@ -2,7 +2,7 @@
 
 A web app to demonstrate the search using multiple inputs to narrow down the search results from dummy DB (Auto Generated).
     
-![](https://img.shields.io/badge/build-passed-green)  ![](https://img.shields.io/github/stars/PrashanjeetH/Django_Practise?style=flat)  ![](https://img.shields.io/badge/lisence-GNU-blue)
+![](https://img.shields.io/badge/build-passed-green)  ![](https://img.shields.io/github/stars/PrashanjeetH/Django_Practise?style=flat)  ![](https://img.shields.io/badge/lisence-MIT-blue)
 
 ## How To :
 
