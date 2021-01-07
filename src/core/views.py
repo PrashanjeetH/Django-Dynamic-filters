@@ -13,7 +13,6 @@ def BootstrapFilterView(request):
     category = Category.objects.all()
     if request.method == "POST":
         title_contains_query = request.POST.get('title_contains')
-        # title_exact_query = request.POST.get('title_exact')
         title_or_author_query = request.POST.get('title_or_author')
         category_query = request.POST.get('category')
         reviewed_query = request.POST.get('reviewed')
