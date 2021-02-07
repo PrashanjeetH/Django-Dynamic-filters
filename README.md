@@ -30,3 +30,5 @@ __P.S. : Create super user to explore the wonderful world of administrator where
 `python manage.py createsuperuser`
 
 HAPPY CODING :)
+
+- It's live. [_click here_](https://djdynamicfilter.herokuapp.com/)
